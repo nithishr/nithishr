@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💬 Ask me about Python, Communities, Data Engineering, Dev Ops, Startups
+- 💬 Ask me about AI Engineering, Developer Communities, Data Science, Lean Startups
 - 📫 How to reach me: www.nithishr.com
 - ⚡ Fun fact: I like to watch Olympic sports
 <!--
